@@ -1,3 +1,5 @@
 #!/usr/bin/python
 #Filename: helloworld.py
-print ('Hello World')
+def sayhello():
+    print ('Hello World')
+sayhello()
